@@ -28,8 +28,8 @@
 }
 
 .content-for-home .img-container {
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     background: url("../img/IMG_20231211_141558.jpg") no-repeat top left;
     background-size: cover;
     color: rgb(30, 7, 241);
