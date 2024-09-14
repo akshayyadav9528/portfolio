@@ -28,13 +28,14 @@
 }
 
 .content-for-home .img-container {
-    width:60vh;
-    height: 700px;
+    width:60%;
+    height: 40%;
     background: url("../img/IMG_20231211_141558.jpg") no-repeat top left;
     background-size: cover;
     color: rgb(30, 7, 241);
     border: 0px;
     border-radius: 10%;
+    align-items: centre;
 }
 .content-for-home .img-container p{
    padding-left: 10px;
