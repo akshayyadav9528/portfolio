@@ -28,7 +28,7 @@
 }
 
 .content-for-home .img-container {
-    width: 400px;
+    width:70vh;
     height: 400px;
     background: url("../img/IMG_20231211_141558.jpg") no-repeat top left;
     background-size: cover;
